@@ -1,4 +1,4 @@
-## Various conformal prediction techniques and the implementation on open source datasets is uploaded as three seperate juypter files.
+##  I have written the code for various conformal prediction techniques and the implementation on open source datasets. Please go through the description of the algorithms before reading the code.
 
 What is conformal prediction?
 
